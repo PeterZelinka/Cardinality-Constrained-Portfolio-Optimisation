@@ -73,3 +73,6 @@ To reproduce the whole project one shall download the Datasets folder, Random Se
 
 ## Reproducing the Analysis
 Alternatively, to reproduce just the analysis part, download Analysis.ipynb and Generated data files.
+
+## Credits
+Big thanks to: Eileen Neumann, Alexandra Firkowska, Kristina Popelkova, Shriya Raina and Denis Mclaughlin who were part of my coursework team and have worked tirelessly on delivering the initial version of the project.
