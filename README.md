@@ -35,13 +35,13 @@ Each dataset is structured in the following fashion:
 Main Objective
 The main goal of the implementation was to minimize the following function 50 times, using 50 equally spaced values of 𝜆 (from 0 to 1):
 
-                                                𝑓(𝑠) = 𝜆 · 𝐶𝑜𝑉𝑎𝑟(𝑠) − (1 − 𝜆) · 𝑅(𝑠)  
+                                      𝑓(𝑠) = 𝜆 · 𝐶𝑜𝑉𝑎𝑟(𝑠) − (1 − 𝜆) · 𝑅(𝑠)  
 
 Where: 						
                                 
-                                                          𝐶𝑜𝑉𝑎𝑟 = ∑∑𝑤𝑖𝑤𝑗𝜌𝑖𝑗𝜎𝑖𝜎𝑗 	
+                                                𝐶𝑜𝑉𝑎𝑟 = ∑∑𝑤𝑖𝑤𝑗𝜌𝑖𝑗𝜎𝑖𝜎𝑗 	
 
-                                                               𝑅 = ∑𝑤𝑖𝜇𝑖
+                                                     𝑅 = ∑𝑤𝑖𝜇𝑖
           
 - s - a candidate solution (in this case a portfolio)
 - 𝐶𝑜𝑉𝑎𝑟(𝑠) - Covariance of a portfolio
