@@ -6,7 +6,7 @@ This project was originally a part of a group coursework during my Master’s de
 
 ## Introduction
 
-In this project we aimed to use  and then compare the performance of Random Search and Genetic algorithms to optimise a cardinality constrained portfolio. Given relatively extensive nature of the implementation and subsequent analysis the project is broken down into 3 parts:
+In this project we aimed to use  and then compare the performance of Random Search and Genetic algorithms to optimise a cardinality constrained portfolio. Given relatively extensive nature of the implementation and subsequent analysis the project is broken down into 4 parts:
 
 - Implementation of Random Search algorithm (Random Search.py)
 - Implementation of Genetic algorithm (Genetic Algorithm.py)
