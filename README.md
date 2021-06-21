@@ -14,7 +14,7 @@ In this project we aimed to use  and then compare the performance of Random Sear
 - Analysis of the results (Analysis.ipynb)
 
 ### Data
-The data was given to us as part of the coursework in 5 .txt files. These 5 files represent 5 capital market trading indices from around the world:
+The data was given to us as part of the coursework in 5 .txt files. These 5 files represent 5 capital market trading indixes from around the world:
 - `assets1.txt` - Hang Seng (Hong Kong)
 - `assets2.txt` - DAX 100 (Germany)
 - `assets3.txt` - FTSE 100(UK)
@@ -49,7 +49,7 @@ Where:
 
 ## Algorithm Implementation
 
-The logic of the algorithms used are depicted below. The actual heuristics will not be discussed in detail, however they are explained in great detail in T.-J. Chang, et. al (2000) paper, which was followed for transforming the algorithms into code. The paper can also be found in the repository. 
+The logic of the algorithms used is depicted below. The actual heuristics will not be discussed in detail, however they are explained in great detail in T.-J. Chang, et. al (2000) paper, which was followed for transforming the algorithms into code. The paper can also be found in the repository. 
 
 ## Random Search Algorithm
 
