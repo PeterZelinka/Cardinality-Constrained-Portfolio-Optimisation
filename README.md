@@ -88,7 +88,7 @@ In a directory of your choice, run:
 
  1. `git clone https://github.com/PeterZelinka/Cardinality-Constrained-Portfolio-Optimisation.git`
 
-Then run:
+Then run (one by one):
 
  2. `python Random\ Search.py`
 
