@@ -67,14 +67,18 @@ To install the project you can either:
 
 A. Reproduce the analysis part:
 
--`git clone https://github.com/PeterZelinka/Cardinality-Constrained-Portfolio-Optimisation.git`
+In a directory of your choice, run:
+
+- `git clone https://github.com/PeterZelinka/Cardinality-Constrained-Portfolio-Optimisation.git`
+
 - Install [Anaconda](https://www.anaconda.com/products/individual)
 - Open JupyterNotebook
 - Navigate to the location where you cloned the directory
 - Open and run Analysis.ipynb
 
 B. Reproduce the whole project:
-- In a directory of your choice, run:
+
+In a directory of your choice, run:
 
 - `git clone https://github.com/PeterZelinka/Cardinality-Constrained-Portfolio-Optimisation.git`
 
