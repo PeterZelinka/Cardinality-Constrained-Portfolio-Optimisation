@@ -60,7 +60,7 @@ The logic of the algorithms used is depicted below. The actual heuristics will n
 ![Screenshot 2021-06-15 at 21 05 19](https://user-images.githubusercontent.com/85829899/122634018-ff070f00-d0db-11eb-83c1-39d504d6baa2.png)
  
 ## Limitations
-Like many other projects, this project too has areas for improvement. The main one is that the code for optimizing the portfolios (i.e. Random Search.py and Genetic Algorithm.py) is rather inefficient. This is due to relatively high number of iterations (Number of assets in an index * 1000 for every value of 𝜆) coupled with somewhat ineffective ways for calaculations. This in turn, resulted in extensive runing times. Reducing run times of the codes would significantly improve chances of the project being used for a real world application.
+Like many other, this project too has areas for improvement. The main one is the efficiency of code for optimization of the portfolios (i.e. Random Search.py and Genetic Algorithm.py). Run times of these codes is quite significant. This is due to relatively high number of iterations (Number of assets in an index * 1000 for every value of 𝜆) coupled with somewhat ineffective ways for calaculations. Reducing run times of the codes by making the calculations more efficient would significantly improve chances of the project being used for a real world application.
 
 ## Installation
 
