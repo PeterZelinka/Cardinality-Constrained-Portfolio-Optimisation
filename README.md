@@ -69,7 +69,7 @@ Like many other, this project too has areas for improvement. The main one is the
 Install the requirements using `pip install -r requirements.txt`
 -	You may also choose to use virtual environment for this
 
-### To install the project you can either:
+### To install the project you can choose to either:
 
 #### A. Reproduce the analysis part:
 
