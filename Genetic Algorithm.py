@@ -447,5 +447,5 @@ for n, file in zip(stock_lengths, asset_files):
 
     # Creating CSV files for further analysis
     df_results = pd.concat([lambdas, results, assets, weights], axis=1)
-    stats.to_csv('stats_GA_'+file[:-4]+'.csv', index = False)
-    df_results.to_csv('results_GA_'+file[:-4]+'.csv', index = False)
+    stats.to_csv('Generated data/Different Lambdas/stats_GA_'+file[:-4]+'.csv', index = False)
+    df_results.to_csv('Generated data/Different Lambdas/results_GA_'+file[:-4]+'.csv', index = False)

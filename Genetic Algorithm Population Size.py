@@ -445,5 +445,5 @@ for n, file in zip(stock_lengths, asset_files):
 
         # Creating CSV files for further analysis
         df_results = pd.concat([results, assets, weights], axis=1)
-        stats.to_csv('stats_GA_p={}_{}.csv'.format(str(pop_size),file[:-4]), index=False)
-        df_results.to_csv('results_GA_p={}_{}.csv'.format(str(pop_size),file[:-4]), index=False)
+        stats.to_csv('Generated data/Different Populations/stats_GA_p={}_{}.csv'.format(str(pop_size),file[:-4]), index=False)
+        df_results.to_csv('Generated data/Different Populations/results_GA_p={}_{}.csv'.format(str(pop_size),file[:-4]), index=False)
